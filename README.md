@@ -8,6 +8,9 @@ Google Colaboratory上でのJulia言語実行例です。
  　　Google Colaboratory上でJuliaをインストールする
    サンプルです。
 
+# Note
+取り組みたいこと
+* [MNITSをもって、Flux.jlを入門する](https://tsumakoto.github.io/study_fluxjl/begginer/1/)
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
