@@ -16,4 +16,4 @@ Google Colaboratory上でのJulia言語実行例です。
 高橋かずひと(https://twitter.com/KzhtTkhs)
 
 # License
-Google-Colab-Julia is under [MIT license](LICENSE.md).
+Google-Colab-Julia is under [MIT license](LICENSE).
