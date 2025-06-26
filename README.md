@@ -1,3 +1,9 @@
+> [!NOTE]
+> ColaboratoryがデフォルトでJuliaをサポートするようになったため、このリポジトリはアーカイブします
+
+![image](https://github.com/user-attachments/assets/e3f098ab-12fa-481a-b38e-0af5813c149e)
+
+
 # Google-Colab-Julia
 Google Colaboratory上でのJulia言語実行例です。
 
